@@ -10,10 +10,8 @@ gem 'rails', '~> 6.1.0'
 
 # Postgres Gem
 gem 'pg', '~> 1.2', '>= 1.2.3'
-
 #Bootstrap SASS
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
-
 #Devise
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
